@@ -9,14 +9,12 @@ Tutorial parte del entrenamiento para el evento Xamarin Fest Bolivia.
   - Material
 
 ### Android
-
-
-
+Desarrollo de una aplicacion android con Xamarin.
+### Xamarin Forms
+Desarrollo de una aplicacio con Xamarin Forms
 ### Materials
 
 Material de referencia para el desarrollo de aplicaciones con Xamarin
 
 
-#### Author
 
-By Rodrigo Quispe
